@@ -19,6 +19,7 @@ git checkout -b feature/estudiante1-claseoarchivo
 # Traer los cambios más actuales de main
 git pull origin main
 ```
+>No olviden siempre verificar con git fecht si hay cambios en la rama principal y traeerse esos cambios con git pull
 
 ### Hacer commits
 

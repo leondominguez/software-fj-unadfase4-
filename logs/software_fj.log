@@ -1,0 +1,118 @@
+2026-11-20 23:34:04 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:37:23 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:38:03 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:40:04 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:42:24 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-20 23:42:24 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-20 23:42:24 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-20 23:42:24 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-20 23:42:24 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-20 23:42:24 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-20 23:42:24 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Pendiente
+2026-11-20 23:42:48 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-20 23:42:48 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-20 23:42:48 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-20 23:42:48 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-20 23:42:48 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-20 23:42:48 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Reserva RES-103 confirmada exitosamente con costo total de $300.0.
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Confirmada
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Reserva RES-104 confirmada exitosamente con costo total de $480.0.
+2026-11-20 23:42:48 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-104. Estado actual: Confirmada
+2026-11-20 23:42:48 - SoftwareFJ - INFO - La reserva RES-101 ha sido cancelada.
+2026-11-20 23:42:48 - SoftwareFJ - WARNING - Op 12 controlada: La reserva ya se encuentra cancelada.
+2026-11-20 23:42:48 - SoftwareFJ - INFO - -FIN DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:43:13 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-20 23:43:13 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-20 23:43:13 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-20 23:43:13 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-20 23:43:13 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-20 23:43:13 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Reserva RES-103 confirmada exitosamente con costo total de $300.0.
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Confirmada
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Reserva RES-104 confirmada exitosamente con costo total de $480.0.
+2026-11-20 23:43:13 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-104. Estado actual: Confirmada
+2026-11-20 23:43:13 - SoftwareFJ - INFO - La reserva RES-101 ha sido cancelada.
+2026-11-20 23:43:13 - SoftwareFJ - WARNING - Op 12 controlada: La reserva ya se encuentra cancelada.
+2026-11-20 23:43:13 - SoftwareFJ - INFO - -FIN DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:04:18 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-21 00:04:18 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-21 00:04:18 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-21 00:04:18 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-21 00:04:18 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-21 00:04:18 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Reserva RES-103 confirmada exitosamente con costo total de $300.0.
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Confirmada
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Reserva RES-104 confirmada exitosamente con costo total de $480.0.
+2026-11-21 00:04:18 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-104. Estado actual: Confirmada
+2026-11-21 00:04:18 - SoftwareFJ - INFO - La reserva RES-101 ha sido cancelada.
+2026-11-21 00:04:18 - SoftwareFJ - WARNING - Op 12 controlada: La reserva ya se encuentra cancelada.
+2026-11-21 00:04:18 - SoftwareFJ - INFO - -FIN DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:05:27 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-21 00:05:27 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-21 00:05:27 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-21 00:05:27 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-21 00:05:27 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-21 00:05:27 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Reserva RES-103 confirmada exitosamente con costo total de $300.0.
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Confirmada
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Reserva RES-104 confirmada exitosamente con costo total de $480.0.
+2026-11-21 00:05:27 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-104. Estado actual: Confirmada
+2026-11-21 00:05:27 - SoftwareFJ - INFO - La reserva RES-101 ha sido cancelada.
+2026-11-21 00:05:27 - SoftwareFJ - WARNING - Op 12 controlada: La reserva ya se encuentra cancelada.
+2026-11-21 00:05:27 - SoftwareFJ - INFO - -FIN DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:40:35 - SoftwareFJ - INFO - -INICIO DE SESIÓN DE SIMULACIÓN-
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Cliente registrado correctamente: Cliente: Ana María Gómez | Cédula: 1020304050 | Email: ana.gomez@mail.com
+2026-11-21 00:40:35 - SoftwareFJ - WARNING - Op 2 controlada: Cédula inválida ('1020ABC'). Debe contener solo números y al menos 7 dígitos.
+2026-11-21 00:40:35 - SoftwareFJ - WARNING - Op 3 controlada: Correo electrónico inválido ('laura_sin_arroba.com').
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Servicio creado exitosamente: [Sala] ID: SR-01 - Sala de Juntas Ejecutiva (Capacidad: 15 personas) | Tarifa/h: $50.0
+2026-11-21 00:40:35 - SoftwareFJ - WARNING - Op 5 controlada: La tarifa base debe ser mayor a 0. Valor recibido: -150.0
+2026-11-21 00:40:35 - SoftwareFJ - WARNING - Op 6 controlada: Falta parámetro obligatorio para el servicio: 'area_experto'
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Servicio creado exitosamente: [Equipo] ID: EQ-02 - Laptop Core i7 (Cómputo) | Tarifa/día: $25.0
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Servicio creado exitosamente: [Asesoría] ID: AS-01 - Arquitectura Cloud (Área: Tecnología) | Tarifa/h: $80.0
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Reserva RES-101 confirmada exitosamente con costo total de $214.2.
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-101. Estado actual: Confirmada
+2026-11-21 00:40:35 - SoftwareFJ - ERROR - Error de valor en reserva RES-102: Las horas de reserva de sala deben ser mayores a 0.
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-102. Estado actual: Pendiente
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Reserva RES-103 confirmada exitosamente con costo total de $300.0.
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-103. Estado actual: Confirmada
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Reserva RES-104 confirmada exitosamente con costo total de $480.0.
+2026-11-21 00:40:35 - SoftwareFJ - INFO - Finalizó el intento de confirmación de la reserva RES-104. Estado actual: Confirmada
+2026-11-21 00:40:35 - SoftwareFJ - INFO - La reserva RES-101 ha sido cancelada.
+2026-11-21 00:40:35 - SoftwareFJ - WARNING - Op 12 controlada: La reserva ya se encuentra cancelada.
+2026-11-21 00:40:35 - SoftwareFJ - INFO - -FIN DE SESIÓN DE SIMULACIÓN-

@@ -98,4 +98,3 @@ git commit -m "Describe brevemente el cambio"
 git push -u origin feature/mi-tarea
 ```
 
-En los siguientes envíos desde esa misma rama, puedes usar `git push`. Por ejemplo, para incluir el README y el diagrama, agrega `README.md` e `image/diagram.png` antes de crear el commit.
